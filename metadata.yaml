@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '38617'
     url: http://www.gutenberg.org/2009/agents/38617
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37052#L-Instruction-Publique-en-France-et-en-Italie-au-dix-neuvi-me-si-cleSorbonne.-Des--dit
 gutenberg_bookshelf: FR Education et Enseignement
 gutenberg_issued: '2011-08-12'
 gutenberg_type: Text
