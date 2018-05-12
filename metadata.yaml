@@ -1,0 +1,29 @@
+_repo: L-Instruction-Publique-en-France-et-en-Italie-au-dix-neuvi-me-si-cleSorbonne.-Des--dit_37052
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dejob, Charles
+    birthdate: 1847
+    deathdate: 1916
+    gutenberg_agent_id: '38617'
+    url: http://www.gutenberg.org/2009/agents/38617
+description: ''
+gutenberg_bookshelf: FR Education et Enseignement
+gutenberg_issued: '2011-08-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37052'
+  lccn: '99212912'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'LA'
+- !lcsh 'Public schools -- Italy -- History -- 19th century'
+- !lcsh 'Public schools -- France -- History -- 19th century'
+title: L'Instruction Publique en France et en Italie au dix-neuvième siècle
+url: http://www.gutenberg.org/ebooks/37052
